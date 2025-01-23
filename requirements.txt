@@ -1,0 +1,10 @@
+crewai
+crewai_tools
+langchain_google_genai
+load_dotenv
+litellm
+streamlit
+langchain_huggingface
+requests
+huggingface_hub
+langchain
